@@ -50,6 +50,4 @@ Clone the repository and follow the instructions in the documentation to set up 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-**Note:** Please refer to the detailed documentation in the repository for more information on installation, usage, and contributions.
